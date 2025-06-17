@@ -19,4 +19,8 @@ Professional website for Harmony Spa, a modern wellness center offering massage 
 - HTML5 (semantic markup)
 - CSS3 (Flexbox, Grid, animations)
 - JavaScript (ES6+)
+<<<<<<< HEAD
+=======
+
+>>>>>>> a9f6f87126b8bf57d89dc8d5286f2c96f394dad0
 
