@@ -45,3 +45,4 @@ blackBars();
 
 btn.addEventListener('click',clickNav)
 window.addEventListener('scroll', blackBars)
+
